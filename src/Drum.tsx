@@ -1,4 +1,3 @@
-import React from 'react';
 import { AudioClip } from "./types";
 
 interface DrumProps {
